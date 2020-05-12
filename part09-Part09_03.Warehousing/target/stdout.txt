@@ -1,0 +1,5 @@
+Product: beer
+History: [2.0, 5.0]
+Largest amount of product: 5.0
+Smallest amount of product: 2.0
+Average: 3.0
